@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Tommy Hilfiger SweatShirt",
+      "category": "SweatShirt",
+      "size": ["XS", "S", "M", "L", "XL"],
+      "color": "White",
+      "brand": "Tommy Hilfiger",
+      "price": 139,
+      "image": "https://cdn.dsmcdn.com/mnresize/500/-/ty1021/product/media/images/prod/SPM/PIM/20231023/03/325cebef-1771-31a3-8e51-a9e44784e96d/1_org.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tommy Hilfiger SweatShirt",
+      "category": "SweatShirt",
+      "size": ["XS", "S", "M", "L", "XL"],
+      "color": "Black",
+      "brand": "Tommy Hilfiger",
+      "price": 149,
+      "image": "https://cdn.dsmcdn.com/ty1061/product/media/images/prod/SPM/PIM/20231118/17/6ed4dc3e-096e-3f03-b95c-8939fb519df8/1_org_zoom.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Levi's Vintage Clothing 1967 505 Jeans",
+      "category": "Jeans",
+      "size": ["XS", "S", "M", "L", "XL"],
+      "color": "Gray",
+      "brand": "Levi's",
+      "price": 299,
+      "image": "https://lsco.scene7.com/is/image/lsco/675050130-dynamic1-pdp?fmt=avif&qlt=40&resMode=bisharp&fit=crop,0&op_usm=0.6,0.6,8&wid=660&hei=726"
+    },
+    {
+      "id": 4,
+      "title": "Levi's Standard Graphic Hoodie",
+      "category": "SweatShirt",
+      "size": ["XS", "S", "M", "L", "XL"],
+      "color": "Black",
+      "brand": "Levi's",
+      "price": 109,
+      "image": "https://lsco.scene7.com/is/image/lsco/384240080-front-pdp?fmt=avif&qlt=40&resMode=bisharp&fit=crop,0&op_usm=0.6,0.6,8&wid=660&hei=726"
+    },
+    {
+      "id": 5,
+      "title": "Jordan x Solefly",
+      "category": "SweatShirt",
+      "size": ["XS", "S", "M", "L", "XL"],
+      "color": "White",
+      "brand": "Nike",
+      "price": 129,
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/946ddd4c-0e6e-402d-89dc-6dc78765b5b4/jordan-x-solefly-mens-hoodie-89RNq8.png"
+    },
+    {
+      "id": 6,
+      "title": "Nike Air Max 97 Off-White Menta",
+      "category": "Sneaker",
+      "size": ["XS", "S", "M", "L", "XL"],
+      "color": "Gray",
+      "brand": "Nike",
+      "price": 699,
+      "image": "https://images.stockx.com/360/Nike-Air-Max-97-Off-White-Menta/Images/Nike-Air-Max-97-Off-White-Menta/Lv2/img01.jpg?fm=avif&auto=compress&w=576&dpr=2&updated_at=1635194586&h=384&q=60"
+    },
+    {
+      "id": 7,
+      "title": "Jordan 4 Retro",
+      "category": "Sneaker",
+      "size": ["XS", "S", "M", "L", "XL"],
+      "color": "White",
+      "brand": "Nike",
+      "price": 299,
+      "image": "https://images.stockx.com/360/Air-Jordan-4-Retro-Red-Cement/Images/Air-Jordan-4-Retro-Red-Cement/Lv2/img01.jpg?fm=avif&auto=compress&w=576&dpr=2&updated_at=1691770728&h=384&q=60"
+    },
+    {
+      "id": 8,
+      "title": "Tommy Hilfiger Slim Fit Essential Deep Wash Jeans",
+      "category": "Jeans",
+      "size": ["XS", "S", "M", "L", "XL"],
+      "color": "Black",
+      "brand": "Tommy Hilfiger",
+      "price": 119,
+      "image": "https://shoptommy.scene7.com/is/image/ShopTommy/78A8115_933_FNT?wid=535&hei=705&qlt=80%2C0&resMode=sharp2&op_usm=0.9%2C1.0%2C8%2C0&iccEmbed=0&fmt=webp"
+    },
+    {
+      "id": 9,
+      "title": "Puma RS-X 3 Mercedes AMG Petronas Black",
+      "category": "Sneaker",
+      "size": ["XS", "S", "M", "L", "XL"],
+      "color": "Black",
+      "brand": "Puma",
+      "price": 189,
+      "image": "https://images.stockx.com/360/Puma-RS-X-3-Mercedes-AMG-Petronas-Black/Images/Puma-RS-X-3-Mercedes-AMG-Petronas-Black/Lv2/img01.jpg?fm=avif&auto=compress&w=576&dpr=2&updated_at=1690226603&h=384&q=60"
+    },
+    {
+      "id": 10,
+      "title": "Puma Mirage Sport BMW M Motorsport Black",
+      "category": "Sneaker",
+      "size": ["XS", "S", "M", "L", "XL"],
+      "color": "Black",
+      "brand": "Puma",
+      "price": 169,
+      "image": "https://images.stockx.com/images/Puma-Mirage-Sport-BMW-M-Motorsport-Black.jpg?fit=fill&bg=FFFFFF&w=576&h=384&fm=avif&auto=compress&dpr=2&trim=color&updated_at=1644004139&q=60"
+    },
+    {
+      "id": 11,
+      "title": "Paris Saint-Germain 2023/24 Match Third Jersey",
+      "category": "T-Shirt",
+      "size": ["XS", "S", "M", "L", "XL"],
+      "color": "Black",
+      "brand": "Nike",
+      "price": 169,
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6242d636-3dcc-46e8-bd37-a07e8c09ec48/paris-saint-germain-2023-24-match-third-mens-jordan-dri-fit-adv-soccer-jersey-0fN6wr.png"
+    },
+    {
+      "id": 12,
+      "title": "Paris Saint-Germain 2023/24 Match Home Jersey",
+      "category": "T-Shirt",
+      "size": ["XS", "S", "M", "L", "XL"],
+      "color": "Blue",
+      "brand": "Nike",
+      "price": 159,
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8031439b-3e98-4c8c-9774-54d1ef2f2b3e/paris-saint-germain-2023-24-match-home-mens-dri-fit-adv-soccer-jersey-6NdNc2.png"
+    }
+  ]
+}

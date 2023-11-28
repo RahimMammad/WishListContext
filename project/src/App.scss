@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+
+    :root {
+        --color-background: #fafafa;
+        --color-foreground: #1f2023;
+    }
+    
+    .dark {
+        --color-background: #1f2023;
+        --color-foreground: #fafafa;
+    }
+    
+    body {
+        color: var(--color-foreground);
+        background-color: var(--color-background);
+
+        select {
+            color: var(--color-foreground);
+            border: 1px solid var(--color-foreground);
+            background-color: var(--color-background);
+
+            option {
+                color: var(--color-foreground);
+            }
+        }
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    
+}

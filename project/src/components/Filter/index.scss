@@ -1,0 +1,160 @@
+.filter-main {
+    width: 25%;
+    padding: 50px;
+    position: absolute;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    left: 30px;
+    top: 200px;
+
+    .filtersside {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        h2{
+            cursor: pointer;
+        }
+        .colors {
+            width: 70%;
+            padding-top: 5px;
+            margin-left: auto;
+            margin-right: auto;
+            display: flex;
+            justify-content: space-between;
+            .beige {
+                width: 20px;
+                height: 20px;
+                background-color: #dcccba;
+                border-radius: 50%;
+                vertical-align: middle;
+                border: none;
+                appearance: none;
+                outline: none;
+                cursor: pointer;
+            }
+
+            .brown {
+                width: 20px;
+                height: 20px;
+                background-color: #b87145;
+                border-radius: 50%;
+                vertical-align: middle;
+                border: none;
+                appearance: none;
+                outline: none;
+                cursor: pointer;
+            }
+
+            .black {
+                width: 20px;
+                height: 20px;
+                background-color: #333333;
+                border-radius: 50%;
+                vertical-align: middle;
+                border: none;
+                appearance: none;
+                outline: none;
+                cursor: pointer;
+            }
+
+            .yellow {
+                width: 20px;
+                height: 20px;
+                background-color: #fff600;
+                border-radius: 50%;
+                vertical-align: middle;
+                border: none;
+                appearance: none;
+                outline: none;
+                cursor: pointer;
+            }
+
+            .blue {
+                width: 20px;
+                height: 20px;
+                background-color: #3399cc;
+                border-radius: 50%;
+                vertical-align: middle;
+                border: none;
+                appearance: none;
+                outline: none;
+                cursor: pointer;
+            }
+
+            .khaki {
+                width: 20px;
+                height: 20px;
+                background-color: #728639;
+                border-radius: 50%;
+                vertical-align: middle;
+                border: none;
+                appearance: none;
+                outline: none;
+                cursor: pointer;
+            }
+
+            .orange {
+                width: 20px;
+                height: 20px;
+                background-color: #ff7f50;
+                border-radius: 50%;
+                vertical-align: middle;
+                border: none;
+                appearance: none;
+                outline: none;
+                cursor: pointer;
+            }
+        }
+
+        .price {
+            width: 100%;
+            display: flex;
+            justify-content: space-around;
+        }
+
+        .category {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+
+            label {
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+
+                span {
+                    width: 20px;
+                    height: 20px;
+                    border: 1px solid black;
+                    text-align: center;
+                    margin-right: 10px;
+                }
+            }
+        }
+
+        .filter {
+            width: 100%;
+            height: 7vh;
+            border: 1px solid black;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            span {
+                padding-right: 10px;
+                cursor: pointer;
+            }
+        }
+    }
+
+    h5 {
+        font-size: 20px;
+    }
+
+    img {
+        cursor: pointer;
+    }
+}

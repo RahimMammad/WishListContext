@@ -1,0 +1,15 @@
+.product-main-container {
+    padding: 50px 0;
+    max-width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(3, minmax(277px, 1fr));
+
+  
+    &.layout-2 {
+      grid-template-columns: repeat(2, minmax(150px, 1fr));
+    }
+  }
+  
